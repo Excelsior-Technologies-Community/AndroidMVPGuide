@@ -1,6 +1,6 @@
 # Android MVP Architecture 
 
-A clean, production-ready implementation of the Model-View-Presenter (MVP) architecture pattern in Android with Kotlin.
+A clean implementation of the Model-View-Presenter (MVP) architecture pattern in Android with Kotlin.
 
 ## 📱 What You'll Build
 
